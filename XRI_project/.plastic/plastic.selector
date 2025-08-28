@@ -1,4 +1,0 @@
-repository "XRI_project/XRI_project@2475415445842@cloud"
-  path "/"
-    br "/main"
-    co "/main"
